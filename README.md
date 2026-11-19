@@ -2,6 +2,8 @@
 
 Chrome extension that adds back Picture-in-Picture on Disney+.
 
+![Disney+ playing in Picture-in-Picture](DPIP.gif)
+
 ## Install
 
 1. Download this repo (Code → Download ZIP) and unzip it.
